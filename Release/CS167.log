@@ -1,0 +1,19 @@
+﻿  window.cpp
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(304,24): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(657,42): warning C4244:  “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(657,42): warning C4244:         with
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(657,42): warning C4244:         [
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(657,42): warning C4244:             T=float
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(657,42): warning C4244:         ]
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(658,42): warning C4244:  “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(658,42): warning C4244:         with
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(658,42): warning C4244:         [
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(658,42): warning C4244:             T=float
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(658,42): warning C4244:         ]
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(662,15): warning C4244:  “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(662,15): warning C4244:         with
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(662,15): warning C4244:         [
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(662,15): warning C4244:             T=float
+C:\Users\Youliang Liu\Desktop\CS167\cse167pa3\window.cpp(662,15): warning C4244:         ]
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  CS167.vcxproj -> C:\Users\Youliang Liu\Desktop\CS167\Release\CS167.exe
